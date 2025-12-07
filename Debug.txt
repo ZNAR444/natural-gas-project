@@ -1,0 +1,146 @@
+Courant Number mean: 0.000295605 max: 0.342549
+Interface Courant Number mean: 0.000276981 max: 0.157873
+deltaT = 6.34947e-06
+Time = 0.0560501s
+
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325639 0.000179661 0.455548
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 0.000159514 0.497992
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348677 0.143351 0.999661
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325639 0.000157566 0.455916
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 0.000139897 0.498275
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348678 0.141581 0.999703
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325639 0.000138184 0.456281
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 0.000122689 0.498558
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348678 0.139875 0.999739
+smoothSolver:  Solving for Ux, Initial residual = 0.000345812, Final residual = 7.27792e-10, No Iterations 1
+smoothSolver:  Solving for Uy, Initial residual = 0.000910682, Final residual = 9.219e-16, No Iterations 2
+smoothSolver:  Solving for T, Initial residual = 0.000418124, Final residual = 6.52015e-15, No Iterations 2
+DICPCG:  Solving for p_rgh, Initial residual = 0.00140184, Final residual = 8.76115e-09, No Iterations 1
+ExecutionTime = 188.305 s  ClockTime = 190 s
+
+Courant Number mean: 0.000261522 max: 0.35229
+Interface Courant Number mean: 0.000243197 max: 0.147153
+deltaT = 5.40701e-06
+Time = 0.0560555s
+
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325639 0.000123123 0.456595
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 0.000109317 0.498796
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348678 0.138282 0.999768
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325639 0.000109633 0.456906
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 9.73391e-05 0.499035
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348678 0.136741 0.999793
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 9.76172e-05 0.457216
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 8.66708e-05 0.499275
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348679 0.135252 0.999816
+smoothSolver:  Solving for Ux, Initial residual = 0.000290187, Final residual = 5.92514e-10, No Iterations 1
+smoothSolver:  Solving for Uy, Initial residual = 0.000769097, Final residual = 5.12666e-16, No Iterations 2
+smoothSolver:  Solving for T, Initial residual = 0.000378407, Final residual = 7.84319e-10, No Iterations 1
+DICPCG:  Solving for p_rgh, Initial residual = 0.0016271, Final residual = 5.81963e-09, No Iterations 1
+ExecutionTime = 188.684 s  ClockTime = 191 s
+
+Courant Number mean: 0.0002261 max: 0.376142
+Interface Courant Number mean: 0.000207609 max: 0.133879
+deltaT = 4.31245e-06
+Time = 0.0560598s
+
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 8.86539e-05 0.457463
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 7.87127e-05 0.499463
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348679 0.13396 0.999833
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 8.04311e-05 0.457708
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 7.14119e-05 0.499652
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348679 0.132705 0.999848
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 7.29684e-05 0.457952
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325683 6.4786e-05 0.499841
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.348679 0.131487 0.999862
+smoothSolver:  Solving for Ux, Initial residual = 0.000231266, Final residual = 3.79884e-10, No Iterations 1
+smoothSolver:  Solving for Uy, Initial residual = 0.000587598, Final residual = 6.48474e-10, No Iterations 1
+smoothSolver:  Solving for T, Initial residual = 0.000358248, Final residual = 4.39171e-10, No Iterations 1
+DICPCG:  Solving for p_rgh, Initial residual = 0.00186466, Final residual = 3.00737e-09, No Iterations 1
+ExecutionTime = 189.068 s  ClockTime = 191 s
+
+Courant Number mean: 0.000187044 max: 0.450249
+Interface Courant Number mean: 0.000166054 max: 0.118334
+deltaT = 2.87338e-06
+Time = 0.0560627s
+
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 6.81645e-05 0.458112
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325682 6.05208e-05 0.499964
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.34868 0.130608 0.999871
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 6.35499e-05 0.458272
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325682 5.64237e-05 0.500088
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.34868 0.129748 0.99988
+MULES: Solving for alpha.water
+water volume fraction, min, max = 0.325638 5.92472e-05 0.458431
+MULES: Solving for alpha.oil
+oil volume fraction, min, max = 0.325682 5.26035e-05 0.500211
+MULES: Solving for alpha.methane
+methane volume fraction, min, max = 0.34868 0.128905 0.999888
+smoothSolver:  Solving for Ux, Initial residual = 0.000148113, Final residual = 1.26632e-10, No Iterations 1
+smoothSolver:  Solving for Uy, Initial residual = 0.000360827, Final residual = 2.15373e-10, No Iterations 1
+smoothSolver:  Solving for T, Initial residual = 0.00024188, Final residual = 1.52493e-10, No Iterations 1
+[6]
+[6]
+[6] --> FOAM FATAL ERROR:
+[6] Negative initial temperature T0: -825.266
+[6]
+[6]     From function static Foam::scalar Foam::species::thermo<Thermo, Type>::T(const ThermoType&, Foam::scalar, Foam::scalar, Foam::scalar, FType, dFdTType, LimitType, bool) [with ThermoType = Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy>; FType = double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const; dFdTType = double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const; LimitType = double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double) const; Thermo = Foam::eConstThermo<Foam::rhoConst<Foam::specie> >; Type = Foam::sensibleInternalEnergy; Foam::scalar = double]
+[6]     in file /home/znar44/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/specie/lnInclude/thermoI.H at line 212.
+[6]
+FOAM parallel run aborting
+[6]
+[6] #0  Foam::error::printStack(Foam::Ostream&) at ~/OpenFOAM/OpenFOAM-13/src/OSspecific/POSIX/printStack.C:218
+[6] #1  Foam::error::abort() at ~/OpenFOAM/OpenFOAM-13/src/OpenFOAM/lnInclude/error.C:199
+[6] #2  Foam::Ostream& Foam::operator<< <Foam::error>(Foam::Ostream&, Foam::errorManip<Foam::error>) in "/home/znar44/OpenFOAM/OpenFOAM-13/platforms/linux64GccDPInt32Debug/bin/foamRun"
+[6] #3  double Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy>::T<Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy>, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double) const>(Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy> const&, double, double, double, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double, double) const, double (Foam::eConstThermo<Foam::rhoConst<Foam::specie> >::*)(double) const, bool) at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/specie/lnInclude/thermoI.H:214
+[6] #4  Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy>::Tes(double, double, double) const at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/specie/lnInclude/thermoI.H:335
+[6] #5  Foam::sensibleInternalEnergy<Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy> >::The(Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy> const&, double, double, double) const at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/specie/lnInclude/sensibleInternalEnergy.H:111
+[6] #6  Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy>::The(double, double, double) const at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/specie/lnInclude/thermoI.H:280
+[6] #7  Foam::RhoFluidThermo<Foam::BasicThermo<Foam::pureMixture<Foam::constTransport<Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy> > >, Foam::rhoFluidThermo::composite> >::calculate() at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/basic/rhoFluidThermo/RhoFluidThermo.C:58
+[6] #8  Foam::RhoFluidThermo<Foam::BasicThermo<Foam::pureMixture<Foam::constTransport<Foam::species::thermo<Foam::eConstThermo<Foam::rhoConst<Foam::specie> >, Foam::sensibleInternalEnergy> > >, Foam::rhoFluidThermo::composite> >::correct() at ~/OpenFOAM/OpenFOAM-13/src/thermophysicalModels/basic/rhoFluidThermo/RhoFluidThermo.C:201
+[6] #9  Foam::compressibleVoFphase::correct(Foam::GeometricField<double, Foam::volMesh, Foam::Field> const&, Foam::GeometricField<double, Foam::volMesh, Foam::Field> const&) at ~/OpenFOAM/OpenFOAM-13/applications/modules/compressibleMultiphaseVoF/compressibleMultiphaseVoFMixture/compressibleVoFphase/compressibleVoFphase.C:80 (discriminator 6)
+[6] #10  Foam::compressibleMultiphaseVoFMixture::correctThermo() at ~/OpenFOAM/OpenFOAM-13/applications/modules/compressibleMultiphaseVoF/compressibleMultiphaseVoFMixture/compressibleMultiphaseVoFMixture.C:160 (discriminator 3)
+[6] #11  Foam::solvers::compressibleMultiphaseVoF::thermophysicalPredictor() at ~/OpenFOAM/OpenFOAM-13/applications/modules/compressibleMultiphaseVoF/thermophysicalPredictor.C:61
+[6] #12  ? in "/home/znar44/OpenFOAM/OpenFOAM-13/platforms/linux64GccDPInt32Debug/bin/foamRun"
+[6] #13  ? in "/usr/lib/x86_64-linux-gnu/libc.so.6"
+[6] #14  __libc_start_main in "/usr/lib/x86_64-linux-gnu/libc.so.6"
+[6] #15  ? in "/home/znar44/OpenFOAM/OpenFOAM-13/platforms/linux64GccDPInt32Debug/bin/foamRun"
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 6 in communicator MPI COMMUNICATOR 3 SPLIT FROM 0
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
